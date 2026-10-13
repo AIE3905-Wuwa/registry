@@ -9,11 +9,11 @@ The official package index of the [vault-wiki](https://github.com/AIE3905-Wuwa/v
 
 | Package | Version | Compat | Contents | Trust | Summary |
 |---|---|---|---|---|---|
-| [cuhksz](https://github.com/AIE3905-Wuwa/pkg-cuhksz) | 0.1 | ≥ 0.2 | cuhksz · bb · bb-map · bb-track · bb-teach · bb-quiz · sis · registry | framework-bundled | CUHK-SZ school domain — bb course ops · sis records · registry |
-| [lark](https://github.com/AIE3905-Wuwa/pkg-lark) | 0.1 | ≥ 0.2 | lark · lark-docs · lark-im · lark-calendar | framework-bundled | Feishu/Lark domain — docs · im · calendar |
-| [email](https://github.com/AIE3905-Wuwa/pkg-email) | 0.1 | ≥ 0.2 | email | framework-bundled | personal mailbox domain — mail-cli |
-| [bili](https://github.com/AIE3905-Wuwa/pkg-bili) | 0.1 | ≥ 0.2 | bili | framework-bundled | bilibili content domain — bili-cli |
-| [project](https://github.com/AIE3905-Wuwa/pkg-project) | 0.1 | ≥ 0.2 | project | framework-bundled | project container domain |
+| [cuhksz](https://github.com/AIE3905-Wuwa/pkg-cuhksz) | 0.2 | ≥ 0.2 | cuhksz · bb · bb-map · bb-track · bb-teach · bb-quiz · sis · registry | framework-bundled | CUHK-SZ school domain — bb course ops · sis records · registry |
+| [lark](https://github.com/AIE3905-Wuwa/pkg-lark) | 0.2 | ≥ 0.2 | lark · lark-docs · lark-im · lark-calendar | framework-bundled | Feishu/Lark domain — docs · im · calendar |
+| [email](https://github.com/AIE3905-Wuwa/pkg-email) | 0.2 | ≥ 0.2 | email | framework-bundled | personal mailbox domain — mail-cli |
+| [bili](https://github.com/AIE3905-Wuwa/pkg-bili) | 0.2 | ≥ 0.2 | bili | framework-bundled | bilibili content domain — bili-cli |
+| [project](https://github.com/AIE3905-Wuwa/pkg-project) | 0.2 | ≥ 0.2 | project | framework-bundled | project container domain |
 
 ## Registering a package
 
