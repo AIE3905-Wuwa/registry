@@ -9,3 +9,4 @@ packages:
   project:{repo: https://github.com/owfadev/pkg-project, version: 0.2, compat: ">= 0.2", trust: framework-bundled, members: project, summary: project container domain}
   github: {repo: https://github.com/owfadev/pkg-github, version: 0.2, compat: ">= 0.3", trust: framework-bundled, members: github, summary: GitHub state cache domain with system gh connector and offline reads}
   diary:  {repo: https://github.com/owfadev/pkg-diary,  version: 0.3, compat: ">= 0.2", trust: framework-bundled, members: diary, summary: personal diary zone — vault-backed daily entries, wiki-mapped corpus (human writing; privacy at use; optional package)}
+  qq:     {repo: https://github.com/owfadev/pkg-qq,     version: 0.3.0, compat: ">= 0.3", trust: framework-bundled, members: qq, summary: Official QQ Bot domain — qq-cli WebSocket intake · passive replies · whitelist human-only (official QQ platform; disclosure-only)}
